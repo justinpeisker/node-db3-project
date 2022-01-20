@@ -33,7 +33,7 @@ const checkSchemeId = async (req, res, next) => {
 
   status 400
   {
-    "message": "invalid scheme_name"
+    "message": "invalid scheme
   }
 */
 const validateScheme = async (req, res, next) => {
